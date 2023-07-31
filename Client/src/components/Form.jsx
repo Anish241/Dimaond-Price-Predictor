@@ -121,7 +121,7 @@ export default function Form() {
     
     try {
 
-      axios.post("http://127.0.0.1:8000/", data).then((res) => {
+      axios.post("http://web-production-72d3.up.railway.app/", data).then((res) => {
 
         console.log(res.data);
         if (count == 0){

@@ -12,7 +12,7 @@ const Price = () => {
     useEffect(() => {
         try{
 
-            axios.get("http://127.0.0.1:8000/").then((res) => {
+            axios.get("http://web-production-72d3.up.railway.app/").then((res) => {
                 console.log(res.data);
                 setD(res.data)
             
