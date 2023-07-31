@@ -338,7 +338,7 @@ export default function Form() {
 
             <Grid item xs={12} sm={4}>
               <FormControl fullWidth size="small">
-                <InputLabel id="demo-simple-select-label">Color</InputLabel>
+                <InputLabel id="demo-simple-select-label">Clarity</InputLabel>
                 <Select
                   labelId="demo-simple-select-label"
                   id="demo-simple-select"
