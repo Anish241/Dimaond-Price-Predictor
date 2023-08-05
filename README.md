@@ -5,7 +5,7 @@
    - npm install
 
 2. cd into server folder
-   - pip install joblin pickle django djangorestframkework django-cors-headers
+   - pip install joblib django djangorestframework django-cors-headers
 
 ## Running the app ( open two terminals simultaneously):
 
